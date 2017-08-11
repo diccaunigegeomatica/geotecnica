@@ -1,4 +1,4 @@
 # geotecnica
-Folder with some GFOSS script developed by student and researcher of Geomatic Lab (University of Genoa)
+Folder with some GFOSS scripts developed by students and researchers of Geomatic Lab (University of Genoa)
 
-*Bahs script for multivariate
+*Bash script for multivariate
