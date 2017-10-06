@@ -4,6 +4,6 @@ Si tratta di alcuni script GRASS sviluppati dal tesista Lorenzo Bobbio per gesti
 
 Gli script sono tutti aggiornati e testati per GRASS 7.0.
 
-##TODO - Manca un dataset con cui poterli testare.
+## TODO - Manca un dataset con cui poterli testare.
 
 
